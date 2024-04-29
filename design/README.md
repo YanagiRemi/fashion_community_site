@@ -58,7 +58,6 @@ TOP画面 | /
 投稿一覧画面 | /posts
 ログアウト画面 | /logout
 退会画面 | /withdrawal
-ユーザーの一覧画面 | /user
 
 
 
